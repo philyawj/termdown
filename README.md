@@ -70,3 +70,14 @@ pip install termdown
 ------------------------------------------------------------------------
 
 ![PyPI version](http://img.shields.io/pypi/v/termdown.svg) &nbsp; ![Python 3.x](http://img.shields.io/badge/Python-3.x-green.svg) &nbsp; ![PyPI license](http://img.shields.io/badge/License-GPLv3-red.svg)
+
+------------------------------------------------------------------------
+
+### My forked notes:
+```
+pip3 install termdown -t 'pwd of forked project'
+```
+Can then run from within that folder
+```
+python3 termdown.py 3
+```

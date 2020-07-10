@@ -1,0 +1,12 @@
+__pycache__/
+bin/
+click-7.1.2.dist-info/
+click/
+dateutil/
+pyfiglet-0.8.post1.dist-info/
+pyfiglet/
+python_dateutil-2.8.1.dist-info/
+six-1.15.0.dist-info/
+six.py
+termdown-1.17.0.dist-info/
+six.py
