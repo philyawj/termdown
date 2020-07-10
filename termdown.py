@@ -435,8 +435,8 @@ def countdown(
 
                 if not no_bell:
                     with curses_lock:
-                        os.system('say "your program has finished"') # make this custom text with a default?
-                        curses.beep()
+                        os.system('say "Jordan, your timer has finished. Way to focus."')
+                        # curses.beep()
 
                 if text and not no_text_magic:
                     text = normalize_text(text)
